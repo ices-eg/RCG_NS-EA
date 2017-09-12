@@ -1,0 +1,314 @@
+MS;refYears;spp;region;RFMO;area;select;landings;TAC;shareLanding;Thresh;Comments
+ES;2013-2015;Anguilla anguilla;North Sea and Eastern Arctic;ICES;I, II;-;-;-;-;-;-
+ES;2013-2015;Brosme brosme;North Sea and Eastern Arctic;ICES;I, II;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;North Sea and Eastern Arctic;ICES;I, II;No;-;0%;0%;O;19%
+ES;2013-2015;Gadus morhua;North Sea and Eastern Arctic;ICES;I, II;Yes;16647;40%;30%;M;-
+ES;2013-2015;Mallotus villosus;North Sea and Eastern Arctic;ICES;I, II;-;-;-;-;-;-
+ES;2013-2015;Melanogrammus aeglefinus;North Sea and Eastern Arctic;ICES;I, II;No;115;0%;7%;O;-
+ES;2013-2015;Micromesistius poutassou;North Sea and Eastern Arctic;ICES;I, II;No;-;13%;0%;O;-
+ES;2013-2015;Pandalus borealis;North Sea and Eastern Arctic;ICES;I, II;-;-;-;-;-;-
+ES;2013-2015;Pollachius virens;North Sea and Eastern Arctic;ICES;I, II;No;18;-;1%;O;-
+ES;2013-2015;Reinhardtius hippoglossoides;North Sea and Eastern Arctic;ICES;I, II;No;20;-;4%;O;-
+ES;2013-2015;Salmo salar;North Sea and Eastern Arctic;ICES;I, II;-;-;-;-;-;-
+ES;2013-2015;Scomber scombrus;North Sea and Eastern Arctic;ICES;II;-;-;-;-;-;-
+ES;2013-2015;Sebastes marinus;North Sea and Eastern Arctic;ICES;I, II;-;-;-;-;-;-
+ES;2013-2015;Sebastes mentella;North Sea and Eastern Arctic;ICES;I, II;Yes;847;-;44%;M;-
+ES;2013-2015;Trachurus trachurus;North Sea and Eastern Arctic;ICES;IIa;No;-;11%;0%;O;-
+ES;2013-2015;Ammodytidae;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Anguilla anguilla;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;North Sea and Eastern Arctic;ICES;22-24, IIIa;-;-;-;-;-;-
+ES;2013-2015;Coryphaenoides rupestris;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Eutrigla gurnardus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Aspitrigla cuculus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Sea and Eastern Arctic;ICES;IIIaN;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Sea and Eastern Arctic;ICES;IIIaS;-;-;-;-;-;-
+ES;2013-2015;Glyptocephalus cynoglossus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Limanda limanda;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Melanogrammus aeglefinus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Merlangius merlangus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Merluccius merluccius;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Micromesistius poutassou;North Sea and Eastern Arctic;ICES;IIIa;No;-;13%;0%;O;-
+ES;2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;Functional unit 3-4;-;-;-;-;-;-
+ES;2013-2015;Pandalus borealis;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Pollachius virens;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Salmo salar;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Psetta maxima;North Sea and Eastern Arctic;ICES;IIIa ;-;-;-;-;-;-
+ES;2013-2015;Scomber scombrus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Scophthalmus rhombus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Sprattus sprattus;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Trisopterus esmarki;North Sea and Eastern Arctic;ICES;IIIa;-;-;-;-;-;-
+ES;2013-2015;Anguilla anguilla;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;Baltic Sea;ICES;22-24;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;Baltic Sea;ICES;25-29, 32;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;Baltic Sea;ICES;30;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;Baltic Sea;ICES;31;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;Baltic Sea;ICES;Gulf of Riga;-;-;-;-;-;-
+ES;2013-2015;Coregonus lavaretus;Baltic Sea;ICES;IIId;-;-;-;-;-;-
+ES;2013-2015;Coregonus albula;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;Baltic Sea;ICES;22-24;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;Baltic Sea;ICES;25-32;-;-;-;-;-;-
+ES;2013-2015;Limanda limanda;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Perca fluviatilis;Baltic Sea;ICES;IIId;-;-;-;-;-;-
+ES;2013-2015;Platichthys flesus;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Psetta maxima;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Salmo salar;Baltic Sea;ICES;22-31;-;-;-;-;-;-
+ES;2013-2015;Salmo salar;Baltic Sea;ICES;32;-;-;-;-;-;-
+ES;2013-2015;Salmo trutta;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Sander lucioperca;Baltic Sea;ICES;IIId;-;-;-;-;-;-
+ES;2013-2015;Scophthalmus rhombus;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Solea solea;Baltic Sea;ICES;22;-;-;-;-;-;-
+ES;2013-2015;Sprattus sprattus;Baltic Sea;ICES;22-32;-;-;-;-;-;-
+ES;2013-2015;Ammodytidae;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Anarhichas spp.;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Anguilla anguilla;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Argentina spp.;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Eutrigla gurnardus;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Brosme brosme;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Crangon crangon;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Dicentrarchus labrax;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Eutrigla gurnardus;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Glyptocephalus cynoglossus;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Helicolenus dactylopterus;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Lepidorhombus boscii;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Lepidorhombus whiffiagonis;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Limanda limanda;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Lophius budegassa;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Lophius piscatorius;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Macrourus berglax;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Melanogrammus aeglefinus;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Merlangius merlangus;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Merluccius merluccius;North Sea and Eastern Arctic;ICES;IV VII;No;2;-;0%;O;-
+ES;2013-2015;Micromesistius poutassou;North Sea and Eastern Arctic;ICES;IV, VIId;No;-;13%;0%;O;-
+ES;2013-2015;Microstomus kitt;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Molva dypterygia;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Molva molva;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Mullus barbatus;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Mullus surmuletus;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 7;-;-;-;-;-;-
+ES;2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 10;-;-;-;-;-;-
+ES;2013-2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 32 (TAC IIa, IV);-;-;-;-;-;-
+ES;2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 6;-;-;-;-;-;-
+ES;2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 8;-;-;-;-;-;-
+ES;2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 9;-;-;-;-;-;-
+ES;2013-2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 33 (TAC IIa, VI);-;-;-;-;-;-
+ES;2015;Nephrops norvegicus;North Sea and Eastern Arctic;ICES;functional units 34;-;-;-;-;-;-
+ES;2013-2015;Pandalus borealis;North Sea and Eastern Arctic;ICES;IVa;-;-;-;-;-;-
+ES;2013-2015;Pandalus borealis;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Pecten maximus;North Sea and Eastern Arctic;ICES;VIId;-;-;-;-;-;-
+ES;2013-2015;Phycis blennoides;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Phycis phycis;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Platichthys flesus;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Sea and Eastern Arctic;ICES;VIId;-;-;-;-;-;-
+ES;2013-2015;Pollachius virens;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Psetta maxima;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Reinhardtius hippoglossoides;North Sea and Eastern Arctic;ICES;IV;No;-;1%;0%;O;9%
+ES;2013-2015;Salmo salar;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Scomber scombrus;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Scophthalmus rhombus;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Sebastes mentella;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Sea and Eastern Arctic;ICES;VIId;-;-;-;-;-;-
+ES;2013-2015;Sprattus sprattus;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Sprattus sprattus;North Sea and Eastern Arctic;ICES;VIId;-;-;-;-;-;-
+ES;2013-2015;Trachurus trachurus;North Sea and Eastern Arctic;ICES;IV, VIId;No;-;1%;0%;O;13%
+ES;2013-2015;Trigla lucerna;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Trisopterus esmarki;North Sea and Eastern Arctic;ICES;IV;-;-;-;-;-;-
+ES;2013-2015;Zeus faber;North Sea and Eastern Arctic;ICES;IV, VIId;-;-;-;-;-;-
+ES;2013-2015;Alepocephalus bairdii;North Atlantic;ICES;VI, XII;Yes;456;-;100%;M;-
+ES;2013-2015;Ammodytidae;North Atlantic;ICES;VIa;-;-;-;-;-;-
+ES;2013-2015;Capros aper;North Atlantic;ICES;V, VI,VII;-;-;-;-;-;-
+ES;2013-2015;Pecten maximus;North Atlantic;ICES;IV, VI, VII;No;1;-;0%;O;-
+ES;2013-2015;Aequipecten opercularis;North Atlantic;ICES;VII;-;-;-;-;-;-
+ES;2013-2015;Maja squinado;North Atlantic;ICES;V, VI,VII;-;-;-;-;-;-
+ES;2013-2015;Anguilla anguilla;North Atlantic;ICES;all areas;No;41;-;38%;O;-
+ES;2013-2015;Aphanopus spp.;North Atlantic;ICES;all areas;No;-;3%;0%;O;10%
+ES;2013-2015;Argentina spp.;North Atlantic;ICES;all areas;-;-;-;-;-;-
+ES;2013-2015;Argyrosomus regius;North Atlantic;ICES;all areas;Yes;347;-;21%;M;-
+ES;2013-2015;Aspitrigla cuculus;North Atlantic;ICES;all areas;Yes;357;-;11%;M;-
+ES;2013-2015;Beryx spp.;North Atlantic;ICES;all areas, excluding X and IXa;No;-;23%;0%;O;-
+ES;2013-2015;Beryx spp.;North Atlantic;ICES;IXa and X;No;-;23%;0%;O;-
+ES;2013-2015;Cancer pagurus;North Atlantic;ICES;all areas;No;65;-;0%;O;-
+ES;2013-2015;Clupea harengus;North Atlantic;ICES;VIa;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;North Atlantic;ICES;VIa S, VIIbc;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;North Atlantic;ICES;VIIa;-;-;-;-;-;-
+ES;2013-2015;Clupea harengus;North Atlantic;ICES;VIIj;-;-;-;-;-;-
+ES;2013-2015;Conger conger;North Atlantic;ICES;all areas, excluding X;Yes;2520;-;32%;M;-
+ES;2013-2015;Conger conger;North Atlantic;ICES;X;No;1;-;0%;O;-
+ES;2013-2015;Coryphaenoides rupestris;North Atlantic;ICES;all areas;Yes;2213;32%;75%;M;-
+ES;2013-2015;Dalatias licha;North Atlantic;ICES;All areas;-;-;-;-;-;-
+ES;2013-2015;Dasyatis pastinaca;North Atlantic;ICES;VII, VIII;No;-;11%;0%;O;-
+ES;2013-2015;Deania calcea;North Atlantic;ICES;V, VI, VII, IX, X, XII;-;-;-;-;-;-
+ES;2013-2015;Dicentrarchus labrax;North Atlantic;ICES;all areas, excluding IX;No;361;-;9%;O;-
+ES;2013-2015;Dicentrarchus labrax;North Atlantic;ICES;IX;No;160;-;23%;O;-
+ES;2013-2015;Dicologlossa cuneata;North Atlantic;ICES;VIIIc, IX;Yes;238;-;50%;M;-
+ES;2013-2015;Engraulis encrasicolus;North Atlantic;ICES;IXa (only Cádiz);Yes;5897;48%;82%;M;-
+ES;2013-2015;Engraulis encrasicolus;North Atlantic;ICES;VIII;Yes;17377;90%;83%;M;-
+ES;2013-2015;Etmopterus spinax;North Atlantic;ICES;VI, VII, VIII;-;-;-;-;-;-
+ES;2013-2015;Eutrigla gurnardus;North Atlantic;ICES;VIId,e;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Atlantic;ICES;Va;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Atlantic;ICES;Vb;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Atlantic;ICES;VIa;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Atlantic;ICES;VIb;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Atlantic;ICES;VIIa;-;-;-;-;-;-
+ES;2013-2015;Gadus morhua;North Atlantic;ICES;VIIe-k;-;-;-;-;-;-
+ES;2013-2015;Glyptocephalus cynoglossus;North Atlantic;ICES;VI, VII;Yes;399;-;25%;M;-
+ES;2013-2015;Helicolenus dactylopterus;North Atlantic;ICES;all areas;Yes;1164;-;64%;M;-
+ES;2013-2015;Homarus gammarus;North Atlantic;ICES;all areas;No;11;-;1%;O;-
+ES;2013-2015;Hoplostethus atlanticus;North Atlantic;ICES;all areas;-;-;-;-;-;-
+ES;2013-2015;Lepidopus caudatus;North Atlantic;ICES;IXa;Yes;240;-;70%;M;-
+ES;2013-2015;Lepidorhombus boscii;North Atlantic;ICES;VIIIc, IXa;No;2;92%;7%;O;-
+ES;2013-2015;Lepidorhombus whiffiagonis;North Atlantic;ICES;VI;No;-;11%;0%;O;-
+ES;2013-2015;Lepidorhombus whiffiagonis;North Atlantic;ICES;VII, VIIIabd;No;-;32%;0%;O;-
+ES;2013-2015;Lepidorhombus whiffiagonis;North Atlantic;ICES;VIIIc, IXa;No;35;92%;31%;O;-
+ES;2013-2015;Limanda limanda;North Atlantic;ICES;VIIe;-;-;-;-;-;-
+ES;2013-2015;Limanda limanda;North Atlantic;ICES;VIIa,f-h;-;-;-;-;-;-
+ES;2013-2015;Loligo vulgaris;North Atlantic;ICES;all areas, excluding VIIIc, IXa;No;19;-;15%;O;-
+ES;2013-2015;Loligo vulgaris;North Atlantic;ICES;VIIIc, IXa;No;190;-;48%;O;-
+ES;2013-2015;Lophius budegassa;North Atlantic;ICES;IV, VI;No;-;1%;0%;O;20%
+ES;2013-2015;Lophius budegassa;North Atlantic;ICES;VIIb-k, VIIIabd;No;8;4%;97%;O;23%
+ES;2013-2015;Lophius budegassa;North Atlantic;ICES;VIIIc, IXa;No;83;83%;32%;O;-
+ES;2013-2015;Lophius piscatorius;North Atlantic;ICES;IV, VI;No;-;1%;0%;O;20%
+ES;2013-2015;Lophius piscatorius;North Atlantic;ICES;VIIb-k, VIIIabd;No;-;4%;0%;O;23%
+ES;2013-2015;Lophius piscatorius;North Atlantic;ICES;VIIIc, IXa;Yes;452;83%;52%;M;-
+ES;2013-2015;Mallotus villosus;North Atlantic;ICES;XIV;-;-;-;-;-;-
+ES;2013-2015;Melanogrammus aeglefinus;North Atlantic;ICES;Va;-;-;-;-;-;-
+ES;2013-2015;Melanogrammus aeglefinus;North Atlantic;ICES;Vb;-;-;-;-;-;-
+ES;2013-2015;Melanogrammus aeglefinus;North Atlantic;ICES;VIa;No;14;0%;0%;O;-
+ES;2013-2015;Melanogrammus aeglefinus;North Atlantic;ICES;Vib;No;-;0%;0%;O;-
+ES;2013-2015;Melanogrammus aeglefinus;North Atlantic;ICES;VIIa;-;-;-;-;-;-
+ES;2013-2015;Melanogrammus aeglefinus;North Atlantic;ICES;VIIb-k;No;3;-;0%;O;-
+ES;2013-2015;Merlangius merlangus;North Atlantic;ICES;VIII;No;55;40%;3%;O;-
+ES;2013-2015;Merlangius merlangus;North Atlantic;ICES;IX, X;-;-;-;-;-;-
+ES;2013-2015;Merlangius merlangus;North Atlantic;ICES;Vb;No;-;0%;0%;O;-
+ES;2013-2015;Merlangius merlangus;North Atlantic;ICES;VIa;No;-;0%;0%;O;-
+ES;2013-2015;Merlangius merlangus;North Atlantic;ICES;VIb;No;-;0%;0%;O;-
+ES;2013-2015;Merlangius merlangus;North Atlantic;ICES;VIIa;-;-;-;-;-;-
+ES;2013-2015;Merlangius merlangus;North Atlantic;ICES;VIIe-k;No;4;-;0%;O;-
+ES;2013-2015;Merluccius merluccius;North Atlantic;ICES;IIIa, IV, VI, VII, VIIIab;Yes;22018;29%;28%;M;-
+ES;2013-2015;Merluccius merluccius;North Atlantic;ICES;VIIIc, IXa;Yes;6927;64%;71%;M;-
+ES;2013-2015;Microchirus variegatus;North Atlantic;ICES;all areas;No;1;-;1%;O;-
+ES;2013-2015;Micromesistius poutassou;North Atlantic;ICES;I-IX, XII, XIV;Yes;20955;13%;11%;M;-
+ES;2013-2015;Microstomus kitt;North Atlantic;ICES;all areas;No;54;-;2%;O;-
+ES;2013-2015;Molva dypterygia;North Atlantic;ICES;all areas, excluding X;No;336;3%;15%;O;5%
+ES;2013-2015;Molva macrophthalma;North Atlantic;ICES;X;-;-;-;-;-;-
+ES;2013-2015;Molva molva;North Atlantic;ICES;all areas;Yes;1520;28%;22%;M;-
+ES;2013-2015;Mullus surmuletus;North Atlantic;ICES;all areas;Yes;253;-;15%;M;-
+ES;2013-2015;Mustelus asterias;North Atlantic;ICES;VI, VII, VIII, IX;No;23;-;70%;O;-
+ES;2013-2015;Mustelus mustelus;North Atlantic;ICES;VI, VII, VIII, IX;No;20;-;6%;O;-
+ES;2013-2015;Mustelus punctulatus;North Atlantic;ICES;VI, VII, VIII, IX;-;-;-;-;-;-
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VI Fuctional unit 11;No;-;-;0%;O;2%
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VI Fuctional unit 12;No;-;-;0%;O;2%
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VI Fuctional unit 13;No;-;-;0%;O;2%
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 14;No;-;-;0%;O;6%
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 15;No;-;-;0%;O;6%
+ES;2013-2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 16 (TAC FU16);No;84;30%;39%;O;-
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 17;No;-;-;0%;O;6%
+ES;2013-2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 18 (TAC VII);No;-;6%;0%;O;6%
+ES;2013-2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 19 (TAC VII);No;18;6%;0%;O;6%
+ES;2013-2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 20-21 (TAC VII);No;10;6%;0%;O;6%
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VII Functional unit 22;No;-;-;0%;O;6%
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VIII, IX Functional unit 23, 24;No;-;-;0%;O;6%
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VIII, IX Functional unit 25, 31;No;20;-;95%;O;-
+ES;2015;Nephrops norvegicus;North Atlantic;ICES;VIII, IX Functional unit 26-27, 28-29, 30;No;30;-;13%;O;-
+ES;2013-2015;Octopus vulgaris;North Atlantic;ICES;all areas, excluding VIIIc, IXa;No;36;-;27%;O;-
+ES;2013-2015;Octopus vulgaris;North Atlantic;ICES;VIIIc, IXa;Yes;4213;-;30%;M;-
+ES;2013-2015;Pagellus bogaraveo;North Atlantic;ICES;IXa, X;No;83;28%;10%;O;-
+ES;2013-2015;Pandalus spp.;North Atlantic;ICES;all areas;-;-;-;-;-;-
+ES;2013-2015;Parapenaeus longirostris;North Atlantic;ICES;IXa;Yes;573;-;58%;M;-
+ES;2013-2015;Phycis blennoides;North Atlantic;ICES;all areas;Yes;937;35%;56%;M;-
+ES;2013-2015;Phycis phycis;North Atlantic;ICES;all areas;No;151;-;22%;O;-
+ES;2013-2015;Pleuronectes platessa;North Atlantic;ICES;VIIa;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Atlantic;ICES;VIIe;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Atlantic;ICES;VIIfg;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Atlantic;ICES;VIIbc;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Atlantic;ICES;VIIh-k;-;-;-;-;-;-
+ES;2013-2015;Pleuronectes platessa;North Atlantic;ICES;VIII, IX, X;No;5;17%;3%;O;-
+ES;2013-2015;Pollachius pollachius;North Atlantic;ICES;all areas except IX, X;Yes;228;22%;4%;M;-
+ES;2013-2015;Pollachius pollachius;North Atlantic;ICES;IX, X;No;95;97%;92%;O;-
+ES;2013-2015;Pollachius virens;North Atlantic;ICES;Va;-;-;-;-;-;-
+ES;2013-2015;Pollachius virens;North Atlantic;ICES;Vb;-;-;-;-;-;-
+ES;2013-2015;Pollachius virens;North Atlantic;ICES;IV, IIIa, VI;No;15;-;0%;O;-
+ES;2013-2015;Pollachius virens;North Atlantic;ICES;VII, VIII;No;-;0%;0%;O;-
+ES;2013-2015;Polyprion americanus;North Atlantic;ICES;X;No;1;-;0%;O;-
+ES;2013-2015;Psetta maxima;North Atlantic;ICES;all areas;No;48;-;4%;O;-
+ES;2013-2015;Reinhardtius hippoglossoides;North Atlantic;ICES;V, XIV;-;-;-;-;-;-
+ES;2013-2015;Reinhardtius hippoglossoides;North Atlantic;ICES;VI;No;9;1%;5%;O;9%
+ES;2013-2015;Hippoglossus hippoglossus;North Atlantic;ICES;V, XIV;-;-;-;-;-;-
+ES;2013-2015;Salmo salar;North Atlantic;ICES;all areas;-;-;-;-;-;-
+ES;2013-2015;Sardina pilchardus;North Atlantic;ICES;VIIIabd;Yes;14871;-;46%;M;-
+ES;2013-2015;Sardina pilchardus;North Atlantic;ICES;VIIIc, IXa;Yes;11605;-;38%;M;-
+ES;2013-2015;Scomber colias;North Atlantic;ICES;VIII, IX, X;-;-;-;-;-;-
+ES;2013-2015;Scomber scombrus;North Atlantic;ICES;II, IIIa, IV, V, VI, VII, VIII, IX;No;28225;0%;6%;O;20%
+ES;2013-2015;Scophthalmus rhombus;North Atlantic;ICES;all areas;No;16;-;2%;O;-
+ES;2013-2015;Sebastes marinus;North Atlantic;ICES;ICES Sub areas V, VI, XII, XIV & NAFO SA 2 + (Div. 1F + 3K).;-;-;-;-;-;-
+ES;2013-2015;Sebastes mentella;North Atlantic;ICES;ICES Sub areas V, VI, XII, XIV & NAFO SA 2 + (Div. 1F + 3K);Yes;1282;-;53%;M;-
+ES;2013-2015;Sepia officinalis;North Atlantic;ICES;all areas;Yes;1448;-;13%;M;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;VIIa;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;VIIfg;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;VIIbc;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;VIIhjk;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;Ixa;No;139;-;23%;O;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;VIIIc;No;90;-;96%;O;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;VIIe;-;-;-;-;-;-
+ES;2013-2015;Solea solea;North Atlantic;ICES;VIIIab;No;8;0%;0%;O;8%
+ES;2013-2015;Sparidae;North Atlantic;ICES;all areas;No;59;-;89%;O;-
+ES;2013-2015;Trachurus mediterraneus;North Atlantic;ICES;VIII, IX;Yes;213;-;28%;M;-
+ES;2013-2015;Trachurus picturatus;North Atlantic;ICES;VIII, IX, X;No;77;38%;2%;O;-
+ES;2013-2015;Trachurus trachurus;North Atlantic;ICES;IIa, IVa, Vb, VIa, VIIa-c, e-k, VIIIabde;Yes;1817;11%;3%;M;-
+ES;2013-2015;Trachurus trachurus;North Atlantic;ICES;X;No;2;-;29%;O;-
+ES;2013-2015;Trachurus trachurus;North Atlantic;ICES;VIIIc, IXa;Yes;14456;38%;41%;M;-
+ES;2013-2015;Trisopterus spp.;North Atlantic;ICES;all areas;-;-;-;-;-;-
+ES;2013-2015;Zeus faber;North Atlantic;ICES;all areas;Yes;546;-;17%;M;-
+ES;2015;Anguilla anguilla;Mediterranean and Black Sea;GFCM;all areas in the Med;No;5;-;2%;O;-
+ES;2015;Aristeomorpha foliacea;Mediterranean and Black Sea;GFCM;all areas in the Med;-;-;-;-;-;-
+ES;2015;Aristeus antennatus;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;1066;-;62%;M;-
+ES;2015;Boops boops;Mediterranean and Black Sea;GFCM;1.3, 2.1, 2.2, 3.1, 3.2;-;-;-;-;-;-
+ES;2015;Coryphaena equiselis;Mediterranean and Black Sea;GFCM;all areas in the Med;-;-;-;-;-;-
+ES;2015;Coryphaena hippurus;Mediterranean and Black Sea;GFCM;all areas in the Med;No;132;-;11%;O;-
+ES;2015;Dicentrarchus labrax;Mediterranean and Black Sea;GFCM;all areas in the Med;No;91;-;16%;O;-
+ES;2015;Eledone cirrhosa;Mediterranean and Black Sea;GFCM;1.1, 1.3, 2.1, 2.2, 3.1;-;-;-;-;-;-
+ES;2015;Eledone moschata;Mediterranean and Black Sea;GFCM;1.3, 2.1, 2.2, 3.1;-;-;-;-;-;-
+ES;2015;Engraulis encrasicolus;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;19241;-;27%;M;-
+ES;2015;Engraulis encrasicolus;Mediterranean and Black Sea;GFCM;Black Sea GSA 29;-;-;-;-;-;-
+ES;2015;Eutrigla gurnardus;Mediterranean and Black Sea;GFCM;2.2, 3.1;-;-;-;-;-;-
+ES;2015;Illex spp., Todarodes spp.;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;1012;-;25%;M;-
+ES;2015;Istiophoridae;Mediterranean and Black Sea;GFCM;all areas in the Med;-;-;-;-;-;-
+ES;2015;Loligo vulgaris;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;356;-;15%;M;-
+ES;2015;Lophius budegassa;Mediterranean and Black Sea;GFCM;1.1, 1.2, 1.3, 2.2, 3.1;-;-;-;-;-;-
+ES;2015;Lophius piscatorius;Mediterranean and Black Sea;GFCM;1.1, 1.2, 1.3, 2.2, 3.1;-;-;-;-;-;-
+ES;2015;Merlangius merlangus;Mediterranean and Black Sea;GFCM;Black Sea GSA 29;-;-;-;-;-;-
+ES;2015;Merluccius merluccius;Mediterranean and Black Sea;GFCM;all areas in the Med;-;-;-;-;-;-
+ES;2015;Micromesistius poutassou;Mediterranean and Black Sea;GFCM;1.1, 3.1;-;-;-;-;-;-
+ES;2015;Mugilidae;Mediterranean and Black Sea;GFCM;1.3, 2.1, 2.2, 3.1;-;-;-;-;-;-
+ES;2015;Mullus barbatus;Mediterranean and Black Sea;GFCM;all areas in the Med;-;-;-;-;-;-
+ES;2015;Mullus barbatus;Mediterranean and Black Sea;GFCM;Black Sea GSA 29;-;-;-;-;-;-
+ES;2015;Mullus surmuletus;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;588;-;15%;M;-
+ES;2015;Octopus vulgaris;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;2904;-;33%;M;-
+ES;2015;Nephrops norvegicus;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;563;-;20%;M;-
+ES;2015;Pagellus erythrinus;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;567;-;23%;M;-
+ES;2015;Parapenaeus longirostris;Mediterranean and Black Sea;GFCM;all areas in the Med;No;261;-;2%;O;-
+ES;2015;Penaeus kerathurus;Mediterranean and Black Sea;GFCM;3,1;-;-;-;-;-;-
+ES;2015;Psetta maxima;Mediterranean and Black Sea;GFCM;Black Sea GSA 29;-;-;-;-;-;-
+ES;2015;Sardina pilchardus;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;14245;-;14%;M;-
+ES;2015;Scomber spp.;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;3575;-;42%;M;-
+ES;2015;Sepia officinalis;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;921;-;11%;M;-
+ES;2015;Solea vulgaris;Mediterranean and Black Sea;GFCM;1.2, 2.1, 3.1;-;-;-;-;-;-
+ES;2015;Sparus aurata;Mediterranean and Black Sea;GFCM;1.2, 3.1;-;-;-;-;-;-
+ES;2015;Spicara smaris;Mediterranean and Black Sea;GFCM;2.1, 3.1, 3.2;-;-;-;-;-;-
+ES;2015;Sprattus sprattus;Mediterranean and Black Sea;GFCM;Black Sea GSA 29;-;-;-;-;-;-
+ES;2015;Squilla mantis;Mediterranean and Black Sea;GFCM;1.3, 2.1, 2.2;-;-;-;-;-;-
+ES;2015;Trachurus mediterraneus;Mediterranean and Black Sea;GFCM;All areas in the Med;Yes;2887;-;83%;M;-
+ES;2015;Trachurus mediterraneus;Mediterranean and Black Sea;GFCM;Black Sea GSA 29;-;-;-;-;-;-
+ES;2015;Trachurus trachurus;Mediterranean and Black Sea;GFCM;all areas in the Med;Yes;2714;-;47%;M;-
+ES;2015;Trachurus trachurus;Mediterranean and Black Sea;GFCM;Black Sea GSA 29;-;-;-;-;-;-
+ES;2015;Trigla lucerna;Mediterranean and Black Sea;GFCM;1.3, 2.2, 3.1;-;-;-;-;-;-
+ES;2015;Veneridae;Mediterranean and Black Sea;GFCM;2.1, 2.2;-;-;-;-;-;-
+ES;2015;Aphia minuta;Mediterranean and Black Sea;GFCM;GSA 9,10,16 and 19;-;-;-;-;-;-
+ES;2015;Atherina spp;Mediterranean and Black Sea;GFCM;GSA 9,10,16 and 19;-;-;-;-;-;-
+ES;2015;Trisopterus minutus;Mediterranean and Black Sea;GFCM;All Regions;Yes;831;-;46%;M;-

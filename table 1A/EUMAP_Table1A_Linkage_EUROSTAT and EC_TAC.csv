@@ -1,0 +1,314 @@
+region;sppName;latinName;stockID;area;areaBis;TAC area description
+North Sea and Eastern Arctic;European Eel;Anguilla anguilla;No TAC;I, II;27_1,27_2;
+North Sea and Eastern Arctic;Tusk;Brosme brosme;USK1214EI;I, II;27_1,27_2;EC and International Waters of I, II and XIV
+North Sea and Eastern Arctic;Atlanto-Scandian herring;Clupea harengus;HER1/2-;I, II;27_1,27_2;
+North Sea and Eastern Arctic;Cod;Gadus morhua;COD1/2B.;I, II;27_1,27_2;I, IIb)
+North Sea and Eastern Arctic;Capelin;Mallotus villosus;CAP02B.;I, II;27_1,27_2;ICES division IIb - Spitzbergen and Bear Island
+North Sea and Eastern Arctic;Haddock;Melanogrammus aeglefinus;HAD1N2AB.;I, II;27_1,27_2;I, II (Norwegian waters)
+North Sea and Eastern Arctic;Blue whiting;Micromesistius poutassou;WHB1X14;I, II;27_1,27_2;ICES I, II, III, IV, V, VII, VIIIabde, XII and XIV (EC and international waters)
+North Sea and Eastern Arctic;Northern shrimp;Pandalus borealis;PRA2AC4-C;I, II;27_1,27_2;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Saithe;Pollachius virens;POK1/2INT;I, II;27_1,27_2;I, II (International waters)
+North Sea and Eastern Arctic;Greenland halibut;Reinhardtius hippoglossoides;GHL1/2INT;I, II;27_1,27_2;I, II (International waters)
+North Sea and Eastern Arctic;Salmon;Salmo salar;No TAC;I, II;27_1,27_2;
+North Sea and Eastern Arctic;Mackerel;Scomber scombrus;MAC2A34.;II;27_2;IIa
+North Sea and Eastern Arctic;Golden Redfish;Sebastes marinus;REGXXX;I, II;27_1,27_2;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Sea and Eastern Arctic;Deep sea Redfish;Sebastes mentella;REBXNS;I, II;27_1,27_2;NEAFC Stock - Pelagic redfish Sub Areas I, II
+North Sea and Eastern Arctic;Horse mackerel;Trachurus trachurus;JAX2A-14;IIa;27_2_A;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Sea and Eastern Arctic;Sand eel;Ammodytidae;SAN2A3A4.;IIIa;27_3_A;"IIIa; EC waters of IIa and IV"
+North Sea and Eastern Arctic;European Eel;Anguilla anguilla;No TAC;IIIa;27_3_A;
+North Sea and Eastern Arctic;Herring;Clupea harengus;HER03A., HER03A-BC;22-24, IIIa;27_3_A,27_3_C_22,27_3_D_24;
+North Sea and Eastern Arctic;Roundnose grenadier;Coryphaenoides rupestris;RNG03-;IIIa;27_3_A;EU and international waters of III
+North Sea and Eastern Arctic;Grey gurnard;Eutrigla gurnardus;No TAC;IIIa;27_3_A;
+North Sea and Eastern Arctic;Red gurnard;Aspitrigla cuculus;No TAC;IIIa;27_3_A;
+North Sea and Eastern Arctic;Cod;Gadus morhua;COD03AN.;IIIaN;27_3_A-4_AB_NK;Skagerrak (Division IIIa)
+North Sea and Eastern Arctic;Cod;Gadus morhua;COD03AS.;IIIaS;27_3_A;Kattegat (Division IIIa)
+North Sea and Eastern Arctic;Witch flounder;Glyptocephalus cynoglossus;No TAC;IIIa;27_3_A;
+North Sea and Eastern Arctic;Dab;Limanda limanda;No TAC;IIIa;27_3_A;
+North Sea and Eastern Arctic;Haddock;Melanogrammus aeglefinus;HAD3A/BCD;IIIa;27_3_A;IIIa) and EU waters of IIIbcd
+North Sea and Eastern Arctic;Whiting;Merlangius merlangus;WHG03A.;IIIa;27_3_A;
+North Sea and Eastern Arctic;Hake;Merluccius merluccius;HKE3A/BCD;IIIa;27_3_A;IIIa) and EU waters of IIIbcd
+North Sea and Eastern Arctic;Blue whiting;Micromesistius poutassou;WHB1X14;IIIa;27_3_A;ICES I, II, III, IV, V, VII, VIIIabde, XII and XIV (EC and international waters)
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP3A/BCD;Functional unit 3-4;27_3_A;IIIa) and EU waters of IIIbcd
+North Sea and Eastern Arctic;Northern shrimp;Pandalus borealis;PRA03A.;IIIa;27_3_A;IIIa)
+North Sea and Eastern Arctic;Plaice;Pleuronectes platessa;PLE03AN.,PLE03AS.;IIIa;27_3_A;Skagerrak (Division IIIa),Kattegat (Division IIIa)
+North Sea and Eastern Arctic;Saithe;Pollachius virens;2A34.;IIIa;27_3_A;EU waters of IV and in IIIa
+North Sea and Eastern Arctic;Salmon;Salmo salar;No TAC;IIIa;27_3_A;
+North Sea and Eastern Arctic;Turbot;Psetta maxima;No TAC;IIIa ;27_3_A;
+North Sea and Eastern Arctic;Mackerel;Scomber scombrus;MAC2A34.;IIIa;27_3_A;IIIa
+North Sea and Eastern Arctic;Brill;Scophthalmus rhombus;No TAC;IIIa;27_3_A;
+North Sea and Eastern Arctic;Sole;Solea solea;SOL3A/BCD;IIIa;27_3_A;
+North Sea and Eastern Arctic;Sprat;Sprattus sprattus;SPR03A.;IIIa;27_3_A;IIIa)
+North Sea and Eastern Arctic;Norway pout;Trisopterus esmarki;NOP2A3A4.;IIIa;27_3_A;"IIIa; EU waters of IIa and IV,IIIa; EC waters of IIa and IV"
+Baltic Sea;European Eel;Anguilla anguilla;No TAC;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;
+Baltic Sea;Herring;Clupea harengus;HER3BC+24;22-24;27_3_C_22,27_3_B_23,27_3_D_24;
+Baltic Sea;Herring;Clupea harengus;HER3D-R30;25-29, 32;27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28_2,27_3_D_29,27_3_D_32;
+Baltic Sea;Herring;Clupea harengus;HER3D30.;30;27_3_D_30;
+Baltic Sea;Herring;Clupea harengus;HER3D31.;31;27_3_D_31;
+Baltic Sea;Herring;Clupea harengus;HER03D.RG;Gulf of Riga;27_3_D_28_1;
+Baltic Sea;Common Whitefish/houting;Coregonus lavaretus;No TAC;IIId;27_3_D;
+Baltic Sea;Vendace;Coregonus albula;No TAC;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;
+Baltic Sea;Cod;Gadus morhua;COD3BC+24;22-24;27_3_C_22,27_3_B_23,27_3_D_24;IIIb),c),d) (1) - Sub Divisions 22 to 24
+Baltic Sea;Cod;Gadus morhua;COD3DX32.;25-32;27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;IIId) (1) - Sub Divisions 25-32
+Baltic Sea;Dab;Limanda limanda;No TAC;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;
+Baltic Sea;Perch;Perca fluviatilis;No TAC;IIId;27_3_D;
+Baltic Sea;Flounder;Platichthys flesus;No TAC;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;
+Baltic Sea;Plaice;Pleuronectes platessa;PLE3BCD-C;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;IIIb),c),d) (1)- Excluding MU3
+Baltic Sea;Turbot;Psetta maxima;No TAC;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;
+Baltic Sea;Salmon;Salmo salar;SAL3BCD-F;22-31;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31;
+Baltic Sea;Salmon;Salmo salar;SAL3D32.;32;27_3_D_32;
+Baltic Sea;Sea trout;Salmo trutta;No TAC;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;
+Baltic Sea;Pike-perch;Sander lucioperca;No TAC;IIId;27_3_D;
+Baltic Sea;Brill;Scophthalmus rhombus;No TAC;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;
+Baltic Sea;Sole;Solea solea;No TAC;22;27_3_C_22;
+Baltic Sea;Sprat;Sprattus sprattus;SPR3B23.,SPR3BCD-C,SPR3C22.,SPR3D24.,SPR3D25.,SPR3D26.,SPR3D27.,SPR3D28.,,SPR3D29.,SPR3D30.,SPR3D31.,SPR3D32.;22-32;27_3_C_22,27_3_B_23,27_3_D_24,27_3_D_25,27_3_D_26,27_3_D_27,27_3_D_28,27_3_D_29,27_3_D_30,27_3_D_31,27_3_D_32;To be checked
+North Sea and Eastern Arctic;Sand eel;Ammodytidae;SAN2A3A4.;IV;27_4;"IIIa; EC waters of IIa and IV"
+North Sea and Eastern Arctic;Catfish;Anarhichas spp.;No TAC;IV;27_4;
+North Sea and Eastern Arctic;European Eel;Anguilla anguilla;No TAC;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Argentine;Argentina spp.;ARU34-C;IV;27_4;
+North Sea and Eastern Arctic;Grey gurnard;Eutrigla gurnardus;No TAC;IV;27_4;
+North Sea and Eastern Arctic;Tusk;Brosme brosme;USK04-C.;IV;27_4;EU waters of IV
+North Sea and Eastern Arctic;Herring;Clupea harengus;HER2A47DX;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Common Shrimp;Crangon crangon;No TAC;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Sea bass;Dicentrarchus labrax;No TAC;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Grey gurnard;Eutrigla gurnardus;No TAC;IV;27_4;
+North Sea and Eastern Arctic;Cod;Gadus morhua;COD2A3AX4,COD07D.;IV, VIId;27_4,27_7_D;"IV; EC waters of IIa; that part of IIIa not covered by the Skagerrak and the Kattegat,ICES division VIId - Eastern Channel"
+North Sea and Eastern Arctic;Witch flounder;Glyptocephalus cynoglossus;WIT2AC4-C;IV;27_4;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Blue-mouth rockfish;Helicolenus dactylopterus;No TAC;IV;27_4;
+North Sea and Eastern Arctic;Four-spot megrim;Lepidorhombus boscii;LEZ2AC4-C;IV, VIId;27_4,27_7_D;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Megrim;Lepidorhombus whiffiagonis;LEZ2AC4-C;IV, VIId;27_4,27_7_D;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Dab;Limanda limanda;DAB2AC4-C;IV, VIId;27_4,27_7_D;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Black-bellied angler;Lophius budegassa;ANF2AC4-C;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Anglerfish;Lophius piscatorius;ANF2AC4-C;IV;27_4;
+North Sea and Eastern Arctic;Roughhead grenadier;Macrourus berglax;RHG124-;IV;27_4;EU and international waters of I, II and IV
+North Sea and Eastern Arctic;Haddock;Melanogrammus aeglefinus;HAD2AC4.;IV;27_4;"IV; EC waters of IIa"
+North Sea and Eastern Arctic;Whiting;Merlangius merlangus;WHG2AC4.;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Hake;Merluccius merluccius;HKE2AC4-C;IV VII;27_4,27_7_D;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Blue whiting;Micromesistius poutassou;WHB1X14;IV, VIId;27_4,27_7_D;ICES I, II, III, IV, V, VII, VIIIabde, XII and XIV (EC and international waters)
+North Sea and Eastern Arctic;Lemon sole;Microstomus kitt;LEM2AC4-C;IV, VIId;27_4,27_7_D;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Blue ling;Molva dypterygia;BLI24-;IV;27_4;EU and international waters of II and IV
+North Sea and Eastern Arctic;Ling;Molva molva;LIN04-C.;IV;27_4;EU waters of IV
+North Sea and Eastern Arctic;Red mullet;Mullus barbatus;No TAC;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Striped red mullet;Mullus surmuletus;No TAC;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 7;nep-7;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 10;nep-10;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 32 (TAC IIa, IV);27_4_A;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 6;nep-6;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 8;nep-8;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 9;nep-9;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 33 (TAC IIa, VI);27_4_B;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Norway lobster;Nephrops norvegicus;NEP2AC4-C;functional units 34;nep-34;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Northern shrimp;Pandalus borealis;PRA2AC4-C;IVa;27_4_A;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Northern shrimp;Pandalus borealis;PRA2AC4-C;IV;27_4;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Common scallop;Pecten maximus;No TAC;VIId;27_7_D;
+North Sea and Eastern Arctic;Greater Forkbeard;Phycis blennoides;GFB1234-;IV;27_4;EU and international waters of I, II, III and IV
+North Sea and Eastern Arctic;Forkbeard;Phycis phycis;No TAC;IV;27_4;
+North Sea and Eastern Arctic;Flounder;Platichthys flesus;FLE2AC4-C;IV;27_4;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Plaice;Pleuronectes platessa;PLE2A3AX4;IV;27_4;"IV; EC waters of IIa; that part of IIIa not covered by the Skagerrak and the Kattegat"
+North Sea and Eastern Arctic;Plaice;Pleuronectes platessa;PLE7DE.;VIId;27_7_D;VIId),e)
+North Sea and Eastern Arctic;Saithe;Pollachius virens;2A34.;IV;27_4;EU waters of IV and in IIIa
+North Sea and Eastern Arctic;Turbot;Psetta maxima;TUR2AC4-C;IV, VIId;27_4,27_7_D;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Greenland halibut;Reinhardtius hippoglossoides;GHL2A-C46;IV;27_4;"EU waters of IIa and IV; EU and international waters of Vb and VI"
+North Sea and Eastern Arctic;Salmon;Salmo salar;No TAC;IV, VIId;27_4,27_7_D;
+North Sea and Eastern Arctic;Mackerel;Scomber scombrus;MAC2A34.;IV, VIId;27_4,27_7_D;IVa) (1),IVb) (1),,IVc) (1)
+North Sea and Eastern Arctic;Brill;Scophthalmus rhombus;BLL2AC4-C;IV, VIId;27_4,27_7_D;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Redfish;Sebastes mentella;No TAC;IV;27_4;
+North Sea and Eastern Arctic;Sole;Solea solea;SOL24-C.;IV;27_4;
+North Sea and Eastern Arctic;Sole;Solea solea;SOL07D.;VIId;27_7_D;
+North Sea and Eastern Arctic;Sprat;Sprattus sprattus;SPR2AC4-C;IV;27_4;EC waters of IIa) and IV
+North Sea and Eastern Arctic;Sprat;Sprattus sprattus;SPR7DE.;VIId;27_7_D;VIId),e)
+North Sea and Eastern Arctic;Horse mackerel;Trachurus trachurus;JAX4BC7D;IV, VIId;27_4,27_7_D;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Sea and Eastern Arctic;Tub gurnard;Trigla lucerna;No TAC;IV;27_4;
+North Sea and Eastern Arctic;Norway pout;Trisopterus esmarki;NOP2A3A4.;IV;27_4;"IIIa; EU waters of IIa and IV,IIIa; EC waters of IIa and IV"
+North Sea and Eastern Arctic;John Dory;Zeus faber;No TAC;IV, VIId;27_4,27_7_D;
+North Atlantic;Smoothhead;Alepocephalus bairdii;No TAC;VI, XII;27_6,27_12;
+North Atlantic;Sand eel;Ammodytidae;No TAC;VIa;27_6_A;??
+North Atlantic;Boarfish;Capros aper;BOR678-;V, VI,VII;27_5,27_6,27_7;EU and international waters of VI, VII and VIII
+North Atlantic;Scallop;Pecten maximus;No TAC;IV, VI, VII;27_4,27_6,27_7_E,27_7_A,27_7_B,27_7_C,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K;
+North Atlantic;Queen scallop;Aequipecten opercularis;No TAC;VII;27_7;
+North Atlantic;Spider crab;Maja squinado;No TAC;V, VI,VII;27_5,27_6,27_7;
+North Atlantic;European Eel;Anguilla anguilla;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Scabbardfish;Aphanopus spp.;BSF56712-,BSF8910-;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;Not sure of the species code
+North Atlantic;Argentine;Argentina spp.;ARU567.;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F27_7_G,,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Meagre;Argyrosomus regius;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Red gurnard;Aspitrigla cuculus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Alfonsinos;Beryx spp.;ALF3X14-;all areas, excluding X and IXa;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9_B,27_12,27_14;
+North Atlantic;Alfonsinos;Beryx spp.;ALF3X14-;IXa and X;27_9_A,27_10;
+North Atlantic;Edible crab;Cancer pagurus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Herring;Clupea harengus;HER06ACL.;VIa;27_6_A;
+North Atlantic;Herring;Clupea harengus;HER6AS7BC;VIa S, VIIbc;27_6_A,27_7_B,27_7_C;
+North Atlantic;Herring;Clupea harengus;HER07A/MM;VIIa;27_7_A;
+North Atlantic;Herring;Clupea harengus;HER7G-K.;VIIj;27_7_J;
+North Atlantic;Conger;Conger conger;COEXDS;all areas, excluding X;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_12,27_14;NEAFC Stock - Deep Sea Fisheries
+North Atlantic;Conger;Conger conger;COEXDS;X;27_10;NEAFC Stock - Deep Sea Fisheries
+North Atlantic;Roundnose grenadier;Coryphaenoides rupestris;RNG514GRN,RNG5B67-,RNG8X14-;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;to be confirmed
+North Atlantic;Kitefin shark;Dalatias licha;SCKXDS;All areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;NEAFC Stock - Deep Sea Fisheries
+North Atlantic;Common stingray;Dasyatis pastinaca;SRX67AKXD,SRX07D.SRX89-C.;VII, VIII;27_7,27_8;SRX = all rays
+North Atlantic;Birdbeak dogfish;Deania calcea;DCAXDS;V, VI, VII, IX, X, XII;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12;
+North Atlantic;Sea bass;Dicentrarchus labrax;No TAC;all areas, excluding IX;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_10,27_12,27_14;
+North Atlantic;Sea bass;Dicentrarchus labrax;No TAC;IX;27_9;
+North Atlantic;Wedge sole;Dicologlossa cuneata;No TAC;VIIIc, IX;27_8_C,27_9;
+North Atlantic;Anchovy;Engraulis encrasicolus;ANE9/3411;IXa (only Cádiz);27_9_A;
+North Atlantic;Anchovy;Engraulis encrasicolus;ANE08.;VIII;27_8;
+North Atlantic;Velvet belly;Etmopterus spinax;No TAC;VI, VII, VIII;27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8;
+North Atlantic;Grey gurnard;Eutrigla gurnardus;No TAC;VIId,e;27_7_D,27_7_E;
+North Atlantic;Cod;Gadus morhua;No TAC;Va;27_5_A;
+North Atlantic;Cod;Gadus morhua;COD05B-F.;Vb;27_5_B;Faroe zone: Vb)
+North Atlantic;Cod;Gadus morhua;COD5BE6A;VIa;27_6_A;"VIa; EU and international waters of Vb east of 12° W"
+North Atlantic;Cod;Gadus morhua;COD5W6-14;VIb;27_6_B;"VIb; EU and international waters of Vb west of 12° W and of XII and XIV"
+North Atlantic;Cod;Gadus morhua;COD07A.;VIIa;27_7_A;ICES division VIIa - Irish Sea
+North Atlantic;Cod;Gadus morhua;COD7XAD34;VIIe-k;27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K;"VII b-c, e-k, VIII, IX and X; EC waters of CECAF 34.1.1"
+North Atlantic;Witch ;Glyptocephalus cynoglossus;No TAC;VI, VII;27_6,27_7_A,27_7_B,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K;
+North Atlantic;Bluemouth rockfish;Helicolenus dactylopterus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Lobster;Homarus gammarus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Orange roughy;Hoplostethus atlanticus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Silver scabbardfish;Lepidopus caudatus;SFSXDS;IXa;27_9_A;NEAFC Stock - Deep Sea Fisheries
+North Atlantic;Four-spot megrim;Lepidorhombus boscii;LEZ8C3411;VIIIc, IXa;27_8_C,27_9_A;"VIIIc),IX,X;COPACE 34.1.1 (1)"
+North Atlantic;Megrim;Lepidorhombus whiffiagonis;LEZ56-14;VI;27_6;"VI; EU and international waters of Vb; international waters of XII and XIV"
+North Atlantic;Megrim;Lepidorhombus whiffiagonis;LEZ07.,LEZ8ABDE.;VII, VIIIabd;27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8_A,27_8_B;
+North Atlantic;Megrim;Lepidorhombus whiffiagonis;LEZ8C3411;VIIIc, IXa;27_8_C,27_9_A;
+North Atlantic;Dab;Limanda limanda;No TAC;VIIe;27_7_E;
+North Atlantic;Dab;Limanda limanda;No TAC;VIIa,f-h;27_7_A,27_7_F,27_7_G,27_7_H;
+North Atlantic;Common squid;Loligo vulgaris;No TAC;all areas, excluding VIIIc, IXa;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8_A,27_8_B,27_8_D,27_8_E,27_9_ B,27_10,27_12,27_14;
+North Atlantic;Common squid;Loligo vulgaris;No TAC;VIIIc, IXa;27_8_C,27_9_A;
+North Atlantic;Black-bellied angler;Lophius budegassa;ANF2AC4-C,ANF56-14;IV, VI;27_4,27_6;
+North Atlantic;Black-bellied angler;Lophius budegassa;ANF07.,ANF8ABDE;VIIb-k, VIIIabd;27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8_A,27_8_B,27_8_D;
+North Atlantic;Black-bellied angler;Lophius budegassa;ANF8C3411;VIIIc, IXa;27_8_C,27_9_A;
+North Atlantic;Anglerfish;Lophius piscatorius;ANF2AC4-C,ANF56-14;IV, VI;27_4,27_6;
+North Atlantic;Anglerfish;Lophius piscatorius;ANF07.,ANF8ABDE;VIIb-k, VIIIabd;27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8_A,27_8_B,27_8_D;
+North Atlantic;Anglerfish;Lophius piscatorius;ANF8C3411;VIIIc, IXa;27_8_C,27_9_A;
+North Atlantic;Capelin;Mallotus villosus;CAP514GRN;XIV;27_14;Greenland zone: V & XIV
+North Atlantic;Haddock;Melanogrammus aeglefinus;No TAC;Va;27_5_A;
+North Atlantic;Haddock;Melanogrammus aeglefinus;HAD05B-F.;Vb;27_5_B;Faroe zone: Vb)
+North Atlantic;Haddock;Melanogrammus aeglefinus;HAD5BC6A.;VIa;27_6_A;Vb) (1), VIa).
+North Atlantic;Haddock;Melanogrammus aeglefinus;HAD6B1214;Vib;27_6_B;Ec and international waters of VIb), XII and XIV
+North Atlantic;Haddock;Melanogrammus aeglefinus;HAD07A.;VIIa;27_7_A;ICES division VIIa - Irish Sea
+North Atlantic;Haddock;Melanogrammus aeglefinus;HAD7X7A34;VIIb-k;27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K;"VIIb),c),d),e),f),g),h),j),k),VIII,IX,X;EC waters of CECAF 34.1.1"
+North Atlantic;Whiting;Merlangius merlangus;WHG08.;VIII;27_8;
+North Atlantic;Whiting;Merlangius merlangus;WHG9/3411;IX, X;27_9,27_10;
+North Atlantic;Whiting;Merlangius merlangus;WHG56-14;Vb;27_5_B;
+North Atlantic;Whiting;Merlangius merlangus;WHG56-14;VIa;27_6_A;
+North Atlantic;Whiting;Merlangius merlangus;WHG56-14;VIb;27_6_B;
+North Atlantic;Whiting;Merlangius merlangus;WHG07A.;VIIa;27_7_A;
+North Atlantic;Whiting;Merlangius merlangus;WHG7X7A-C;VIIe-k;27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K;
+North Atlantic;Hake;Merluccius merluccius;HKE8ABDE,HKE571214;IIIa, IV, VI, VII, VIIIab;27_3_A,27_4,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8_A,27_8_B;VIIIa),b),d),e), Vb) (1), VI, VII, XII, XIV
+North Atlantic;Hake;Merluccius merluccius;HKE8C3411;VIIIc, IXa;27_8_C,27_9_A;"VIIIc),IX,X;COPACE 34.1.1 (1)"
+North Atlantic;Wedge sole;Microchirus variegatus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Blue whiting;Micromesistius poutassou;WHB1X14;I-IX, XII, XIV;27_1,27_2,27_3,27_4,27_5,27_6,27_7,27_8,27_9,27_12,27_14;ICES I, II, III, IV, V, VII, VIIIabde, XII and XIV (EC and international waters)
+North Atlantic;Lemon sole;Microstomus kitt;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Blue ling;Molva dypterygia;BLI5B67-;all areas, excluding X;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_12,27_14;EU waters of IIa, IV, Vb, VI and VII
+North Atlantic;Spanish ling;Molva macrophthalma;No TAC;X;27_10;
+North Atlantic;Ling;Molva molva;LIN6X14.;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;VI, VII, VIII, IX, X, XII, XIV  (1) (2)
+North Atlantic;Striped red mullet;Mullus surmuletus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Starry smooth-hound;Mustelus asterias;No TAC;VI, VII, VIII, IX;27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9;
+North Atlantic;Smooth-hound;Mustelus mustelus;PHOXDS;VI, VII, VIII, IX;27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9;Not sure of the species code
+North Atlantic;Blackspotted smooth-hound;Mustelus punctulatus;No TAC;VI, VII, VIII, IX;27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9;
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP5BC6.;VI Fuctional unit 11;nep-11;Vb) (1), VI
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP5BC6.;VI Fuctional unit 12;nep-12;Vb) (1), VI
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP5BC6.;VI Fuctional unit 13;nep-13;Vb) (1), VI
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP07.;VII Functional unit 14;nep-14;VII
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP07.;VII Functional unit 15;nep-15;VII
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP*07U16;VII Functional unit 16 (TAC FU16);27_7_C,27_C_K;Porcupine Bank – Unit 16
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP07.;VII Functional unit 17;nep-17;VII
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP07.;VII Functional unit 18 (TAC VII);27_7_B;VII
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP07.;VII Functional unit 19 (TAC VII);27_7_G,27_7_J;VII
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP07.;VII Functional unit 20-21 (TAC VII);27_7_H,27_7_G;VII
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP07.;VII Functional unit 22;nep-22;VII
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP8ABDE.;VIII, IX Functional unit 23, 24;27_8_A,27_8_B;VIIIa),b),d),e)
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP08C.;VIII, IX Functional unit 25, 31;27_8_C;ICES division VIIIc - Bay of Biscay - South
+North Atlantic;Norway lobster;Nephrops norvegicus;NEP*9U267;VIII, IX Functional unit 26-27, 28-29, 30;27_9_A;Functional Units 26 and 27 of ICES division IXa
+North Atlantic;Common octopus;Octopus vulgaris;No TAC;all areas, excluding VIIIc, IXa;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8_A,27_8_B,27_8_D,27_8_E,27_9_B,27_10,27_12,27_14;
+North Atlantic;Common octopus;Octopus vulgaris;No TAC;VIIIc, IXa;27_8_C,27_9_A;
+North Atlantic;Blackspot sea bream;Pagellus bogaraveo;SBR09-,SBR10-;IXa, X;27_9_A,27_10;
+North Atlantic;Pandalid shrimps;Pandalus spp.;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Deepwater rose shrimp;Parapenaeus longirostris;No TAC;IXa;27_9_A;
+North Atlantic;Greater Forkbeard;Phycis blennoides;GFB567-,GFB89-,GFB1012-;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;Should we add areas 1, II, III and IV? There also other TAC codes looking redundant??
+North Atlantic;Forkbeard;Phycis phycis;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Plaice;Pleuronectes platessa;PLE07A.;VIIa;27_7_A;ICES division VIIa - Irish Sea
+North Atlantic;Plaice;Pleuronectes platessa;PLE7DE.;VIIe;27_7_E;VIId),e)
+North Atlantic;Plaice;Pleuronectes platessa;PLE7FG.;VIIfg;27_7_F,27_7_G;VIIf),g)
+North Atlantic;Plaice;Pleuronectes platessa;PLE7BC.;VIIbc;27_7_B,27_7_C;VIIb),c)
+North Atlantic;Plaice;Pleuronectes platessa;PLE7HJK.;VIIh-k;27_7_H,27_7_J,27_7_K;VIIh),j),k)
+North Atlantic;Plaice;Pleuronectes platessa;PLE8/3411;VIII, IX, X;27_8,27_9,27_10;"VIII,IX,X;COPACE 34.1.1(1)"
+North Atlantic;Pollack;Pollachius pollachius;VII,POL08C.,POL56-14,POL8ABDE.;all areas except IX, X;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_12,27_14;Should it be a general rule to include all the codes?
+North Atlantic;Pollack;Pollachius pollachius;POL9/3411;IX, X;27_9,27_10;
+North Atlantic;Saithe;Pollachius virens;No TAC;Va;27_5_A;
+North Atlantic;Saithe;Pollachius virens;POK05B-F.;Vb;27_5_B;??
+North Atlantic;Saithe;Pollachius virens;2A34.;IV, IIIa, VI;27_4_27_3_A,27_6;EU waters of IV and in IIIa
+North Atlantic;Saithe;Pollachius virens;POK7/3411;VII, VIII;27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8;"VII,VIII,IX,X;COPACE 34.1.1(1)"
+North Atlantic;Wreckfish;Polyprion americanus;WRFXDS;X;27_10;NEAFC Stock - Deep Sea Fisheries
+North Atlantic;Turbot;Psetta maxima;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Greenland halibut;Reinhardtius hippoglossoides;GHL514GRN;V, XIV;27_5,27_14;Greenland zone: V & XIV
+North Atlantic;Greenland halibut;Reinhardtius hippoglossoides;GHL2A-C46;VI;27_6;EU waters of IIa and VI. In VI
+North Atlantic;Atlantic halibut;Hippoglossus hippoglossus;HAL514GRN;V, XIV;27_5,27_14;
+North Atlantic;Salmon;Salmo salar;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Sardine;Sardina pilchardus;No TAC;VIIIabd;27_8_A,27_8_B,27_8_D;
+North Atlantic;Sardine;Sardina pilchardus;No TAC;VIIIc, IXa;27_8_C,27_9_A;
+North Atlantic;Spanish mackerel;Scomber colias;No TAC;VIII, IX, X;27_8,27_9,27_10;
+North Atlantic;Mackerel;Scomber scombrus;MAC2CX14-;II, IIIa, IV, V, VI, VII, VIII, IX;27_2,27_3_A,27_4,27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9;VI,VII,VIIIa),b),d),e), EC waters of Vb, international waters of IIa, XII and XIV
+North Atlantic;Brill;Scophthalmus rhombus;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Golden Redfish;Sebastes marinus;REGXXX;ICES Sub areas V, VI, XII, XIV & NAFO SA 2 + (Div. 1F + 3K).;27_5,27_6,27_12,27_14,21_1;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Atlantic;Deep sea Redfish;Sebastes mentella;REBXXX;ICES Sub areas V, VI, XII, XIV & NAFO SA 2 + (Div. 1F + 3K);27_5,27_6,27_12,27_14,21_1;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Atlantic;Cuttlefish;Sepia officinalis;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Sole;Solea solea;SOL07A.;VIIa;27_7_A;
+North Atlantic;Sole;Solea solea;SOL7FG.;VIIfg;27_7_F,27_7_G;
+North Atlantic;Sole;Solea solea;SOL7BC.;VIIbc;27_7_B,27_7_C;
+North Atlantic;Sole;Solea solea;SOL7HJK.;VIIhjk;27_7_H,27_7_J,27_7_K;
+North Atlantic;Sole;Solea solea;No TAC;Ixa;27_9_A;
+North Atlantic;Sole;Solea solea;No TAC;VIIIc;27_8_C;
+North Atlantic;Sole;Solea solea;SOL07E.;VIIe;27_7_E;
+North Atlantic;Sole;Solea solea;SOL8AB.;VIIIab;27_8_A,27_8_B;
+North Atlantic;Sea breams (in plural);Sparidae;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;Mediterranean horse mackerel;Trachurus mediterraneus;No TAC;VIII, IX;27_8,27_9;
+North Atlantic;Blue jack mackerel;Trachurus picturatus;JAX08C.,JAX09.,JAXX34PRT;VIII, IX, X;27_8,27_9,27_10;TAC = Jack + horse mackerel nei?
+North Atlantic;Horse mackerel;Trachurus trachurus;JAX2A-14;IIa, IVa, Vb, VIa, VIIa-c, e-k, VIIIabde;27_2_A,27_4_A,27_5_B,27_6_A,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8_A,27_8_B,27_8_D,27_8_E;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Atlantic;Horse mackerel;Trachurus trachurus;JAXX34PRT;X;27_10;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Atlantic;Horse mackerel;Trachurus trachurus;JAX08C.,JAX09.;VIIIc, IXa;27_8_C,27_9_A;NEAFC Stock - catches not from the stock that is subject to NEAFC management mesures
+North Atlantic;Pouting;Trisopterus spp.;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+North Atlantic;John Dory;Zeus faber;No TAC;all areas;27_5,27_6,27_7_A,27_7_B,27_7_C,27_7_E,27_7_F,27_7_G,27_7_H,27_7_J,27_7_K,27_8,27_9,27_10,27_12,27_14;
+Mediterranean and Black Sea;European Eel;Anguilla anguilla;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Giant red shrimp;Aristeomorpha foliacea;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Red shrimp;Aristeus antennatus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Bogue;Boops boops;No TAC;1.3, 2.1, 2.2, 3.1, 3.2;1.3, 2.1, 2.2, 3.1, 3.2;
+Mediterranean and Black Sea;Dolphinfish;Coryphaena equiselis;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Dolphinfish;Coryphaena hippurus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Sea bass;Dicentrarchus labrax;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Horned/curled octopus;Eledone cirrhosa;No TAC;1.1, 1.3, 2.1, 2.2, 3.1;1.1, 1.3, 2.1, 2.2, 3.1;
+Mediterranean and Black Sea;Musky octopus;Eledone moschata;No TAC;1.3, 2.1, 2.2, 3.1;1.3, 2.1, 2.2, 3.1;
+Mediterranean and Black Sea;Anchovy;Engraulis encrasicolus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Anchovy;Engraulis encrasicolus;No TAC;Black Sea GSA 29;Black Sea GSA 29;
+Mediterranean and Black Sea;Grey gurnard;Eutrigla gurnardus;No TAC;2.2, 3.1;2.2, 3.1;
+Mediterranean and Black Sea;Squid;Illex spp., Todarodes spp.;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Billfish;Istiophoridae;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Common squid;Loligo vulgaris;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Black-bellied angler;Lophius budegassa;No TAC;1.1, 1.2, 1.3, 2.2, 3.1;1.1, 1.2, 1.3, 2.2, 3.1;
+Mediterranean and Black Sea;Anglerfish;Lophius piscatorius;No TAC;1.1, 1.2, 1.3, 2.2, 3.1;1.1, 1.2, 1.3, 2.2, 3.1;
+Mediterranean and Black Sea;Whiting;Merlangius merlangus;No TAC;Black Sea GSA 29;Black Sea GSA 29;
+Mediterranean and Black Sea;Hake;Merluccius merluccius;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Blue whiting;Micromesistius poutassou;No TAC;1.1, 3.1;1.1, 3.1;
+Mediterranean and Black Sea;Grey mullets;Mugilidae;No TAC;1.3, 2.1, 2.2, 3.1;1.3, 2.1, 2.2, 3.1;
+Mediterranean and Black Sea;Red mullet;Mullus barbatus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Red mullet;Mullus barbatus;No TAC;Black Sea GSA 29;Black Sea GSA 29;
+Mediterranean and Black Sea;Striped red mullet;Mullus surmuletus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Common octopus;Octopus vulgaris;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Norway lobster;Nephrops norvegicus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Pandora;Pagellus erythrinus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Deepwater rose shrimp;Parapenaeus longirostris;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Caramote prawn;Penaeus kerathurus;No TAC;3,1;3,1;
+Mediterranean and Black Sea;Turbot;Psetta maxima;TURF3742C;Black Sea GSA 29;Black Sea GSA 29;Black Sea (Division 37.4.2) - EU waters
+Mediterranean and Black Sea;Sardine;Sardina pilchardus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Mackerel;Scomber spp.;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Cuttlefish;Sepia officinalis;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Sole;Solea vulgaris;No TAC;1.2, 2.1, 3.1;1.2, 2.1, 3.1;
+Mediterranean and Black Sea;Gilthead sea bream;Sparus aurata;No TAC;1.2, 3.1;1.2, 3.1;
+Mediterranean and Black Sea;Picarels;Spicara smaris;No TAC;2.1, 3.1, 3.2;2.1, 3.1, 3.2;
+Mediterranean and Black Sea;Sprat;Sprattus sprattus;No TAC;Black Sea GSA 29;Black Sea GSA 29;
+Mediterranean and Black Sea;Mantis shrimp;Squilla mantis;No TAC;1.3, 2.1, 2.2;1.3, 2.1, 2.2;
+Mediterranean and Black Sea;Mediterranean horse mackerel;Trachurus mediterraneus;No TAC;All areas in the Med;All areas in the Med;
+Mediterranean and Black Sea;Mediterranean horse mackerel;Trachurus mediterraneus;No TAC;Black Sea GSA 29;Black Sea GSA 29;
+Mediterranean and Black Sea;Horse mackerel;Trachurus trachurus;No TAC;all areas in the Med;all areas in the Med;
+Mediterranean and Black Sea;Horse mackerel;Trachurus trachurus;No TAC;Black Sea GSA 29;Black Sea GSA 29;
+Mediterranean and Black Sea;Tub gurnard;Trigla lucerna;No TAC;1.3, 2.2, 3.1;1.3, 2.2, 3.1;
+Mediterranean and Black Sea;Clam;Veneridae;No TAC;2.1, 2.2;2.1, 2.2;
+Mediterranean and Black Sea;Transparent gobid;Aphia minuta;No TAC;GSA 9,10,16 and 19;GSA 9,10,16 and 19;
+Mediterranean and Black Sea;Sand smelt;Atherina spp;No TAC;GSA 9,10,16 and 19;GSA 9,10,16 and 19;
+Mediterranean and Black Sea;Poor cod;Trisopterus minutus;No TAC;All Regions;All Regions;
