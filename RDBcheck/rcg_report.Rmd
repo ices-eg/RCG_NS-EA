@@ -1,0 +1,129 @@
+---
+title: "RCG North-Sea and Eastern Arctic 2017:\\
+	RDB exploration"
+author: "RCG members"
+date: "`r date()`"
+output: 
+  word_document
+---
+
+#Summary
+
+A summary of the scope of this document.
+
+#Practical information
+
+This document is based on a Rmarkdown file. Tables, figures and numbers are
+generated during the compilation of the original files using R code.
+etc etc
+
+#General options
+
+In this section general option and parameters are set up :
+
+```{r global_options, include=T,cache=F,echo=F,warning=F,message=F,progress=F,verbose=F}
+#knitr option
+operationnel<-TRUE
+knitr::opts_chunk$set(echo=FALSE, 
+		      warning=!operationnel, 
+		      message=!operationnel,
+		      fig.height=6,
+		      progress=!operationnel,
+		      verbose=!operationnel,
+		      include=TRUE,dev='png',autodep=FALSE)
+#package
+library(ggplot2)
+library(dplyr)
+library(DATRAS) #used to compute ices rectangle position
+
+#path: user should set up the working path here if needed
+#setwd("mypath")
+
+#load some extra lookup table or data if needed
+#load ices division definition (icesdiv.rdata is in the github depository)
+load(file="icesdiv.rdata")
+```
+
+#Data
+
+Here the data are read.
+
+```{r dataaaaarg, include=T,cache=F,echo=F,warning=F,message=F,progress=F,verbose=F}
+ CL<-read.table(file="../../../data/CL 2009-2016 NSEA.csv",sep=",",header=T)
+ CE<-read.table(file="../../../data/CE 2009-2016 NSEA.csv",sep=",",header=T)
+ #TR<-read.table(file="../../../data/TR NSEA.csv",sep=",",header=T)
+ #HH<-read.table(file="../../../data/HH NSEA.csv",sep=",",header=T)
+ #CA<-read.table(file="../../../data/CA NSEA.csv",sep=",",header=T)
+ #2016 only
+ CL<-CL%>%filter(Year==2016)
+ CE<-CE%>%filter(Year==2016)
+```
+
+#Landings
+
+Landings by countries and more.
+
+```{r landings_barplot, include=T,cache=F,echo=F,warning=F,message=F,progress=F,verbose=F}
+	#summarize information
+ 	ts1<-tbl_df(CL)%>%
+		group_by(LandingCountry)%>%
+		summarise(w=sum(OfficialLandingCatchWeight,na.rm=T)/1000)%>%
+		arrange(w)
+	#plot information
+	ts1plt<-ggplot(ts1,aes(x=LandingCountry,y=w))+
+		geom_bar(stat="identity")+
+		xlab("Landing Country")+ylab("Landings (t)")+
+		ggtitle(paste0("Landings by countries"))
+	print(ts1plt)
+```
+
+```{r landings_map, include=T,cache=F,echo=F,warning=F,message=F,progress=F,verbose=F}
+	#summarise data: year/trim
+	map1<-CL%>%group_by(Area)%>%summarise(w=sum(OfficialLandingCatchWeight,na.rm=T)/1000)%>%ungroup()
+	icesdivtmp<-inner_join(icesdiv,map1,by=c("area"="Area"))
+	iddivtmp<-iddiv%>%filter(area%in%unique(icesdivtmp$area))%>%group_by(area)%>%summarise(x=mean(x),y=mean(y))%>%
+		ungroup()%>%mutate(shortarea=gsub("\\.","",gsub("27.","",area)))
+	map1<-left_join(map1,iddivtmp,by=c("Area"="area"))
+	map1moy<-map1%>%group_by(Area,x,y)%>%summarise(w=mean(w))
+	map2<-CL%>%group_by(StatisticalRectangle)%>%summarise(w=sum(OfficialLandingCatchWeight,na.rm=T)/1000)%>%ungroup()
+	map2$lon<-map2$lat<-map2$lonc<-map2$latc<-NA
+	for(i in 1:nrow(map2)){
+		if(nchar(map2$StatisticalRectangle[i])==4 & map2$StatisticalRectangle[i]!="NULL"){
+		map2$lon[i]<-DATRAS::icesSquare2coord(map2$StatisticalRectangle[i],"midpoint")$lon
+		map2$lat[i]<-DATRAS::icesSquare2coord(map2$StatisticalRectangle[i],"midpoint")$lat
+		map2$lonc[i]<-DATRAS::icesSquare2coord(map2$StatisticalRectangle[i],"corner")$lon
+		map2$latc[i]<-DATRAS::icesSquare2coord(map2$StatisticalRectangle[i],"corner")$lat
+		}
+	}
+	rangex<-c(min(map2$lon,na.rm=T)-.5,max(map2$lon,na.rm=T)+.5)
+	rangey<-c(min(map2$lat,na.rm=T)-.5,max(map2$lat,na.rm=T)+.5)
+
+	#poly map
+		map<-ggplot()+theme_bw()+
+			theme(panel.grid.minor.y= element_blank(),
+		              panel.grid.minor.x = element_blank())+
+			#geom_polygon(data=icesdivtmp,aes(x=long,y=lat,group=group),fill=NA,border="black")+
+			geom_path(data=icesdivtmp,aes(x=long,y=lat,group=group),color="dark grey")+#,fill=NA,border="black")+
+			geom_raster(data=map2,aes(x=lon,y=lat,fill=w),stat="identity",alpha=.75)+ 
+			scale_fill_distiller(palette='Spectral',name="Landings (t)")+
+			geom_point(data=map1,aes(x=x,y=y,size=w),alpha=.25)+
+			geom_point(data=map1moy,aes(x=x,y=y,size=w),alpha=.5,col="red",fill=NA,shape=1)+
+			scale_size_continuous(name="Landings (t, by area)")+
+			#geom_polygon(data=coast_map,aes(x=long,y=lat,group=group),fill="grey")+#coord_fixed(1)
+			#geom_vline(xintercept=seq(-12, 30, by=1),col="light grey")+
+			#geom_hline(yintercept=seq(39,90, by=0.5),col="light grey")+
+			borders("worldHires",xlim=rangex,ylim=rangey,fill="light grey",colour="light grey")+
+			geom_text(data=iddivtmp,aes(x=x,y=y+1.5,label=shortarea))+
+			coord_quickmap(xlim=range(icesdivtmp$long),ylim=range(icesdivtmp$lat))+
+			xlab("")+ylab("")+
+			ggtitle(paste0("Landings"))
+```
+
+#Efforts
+
+Effort by countries and more.
+
+```
+```
+
+
