@@ -117,6 +117,7 @@ Landings by countries and more.
 			coord_quickmap(xlim=range(icesdivtmp$long),ylim=range(icesdivtmp$lat))+
 			xlab("")+ylab("")+
 			ggtitle(paste0("Landings"))
+	print(map)
 ```
 
 #Efforts
