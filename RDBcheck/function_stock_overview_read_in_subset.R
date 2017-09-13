@@ -18,54 +18,68 @@ read_in_subset_rdbData<-function(dir_data, yearStart, yearEnd, speciesSelection,
 {
   
 stock<-stock
-
+print("reading cl...")
 cl<-read.csv(paste(dir_data, "CL 2009-2016 NSEA.csv", sep = ""), header=T, stringsAsFactors=FALSE)
-cl$LandingCountry<-cl$ï..LandingCountry
+cl$LandingCountry<-cl$Ã¯..LandingCountry
+print("reading ce...")
 ce<-read.csv(paste(dir_data, "CE 2009-2016 NSEA.csv", sep =""), header=T, sep="," , stringsAsFactors=FALSE)
-ce$FlagCountry<-ce$ï..FlagCountry
+ce$FlagCountry<-ce$Ã¯..FlagCountry
+print("reading cs-tr...")
 tr<-read.csv(paste(dir_data, "TR NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
-tr$CS_TripId<-tr$ï..CS_TripId
+tr$CS_TripId<-tr$Ã¯..CS_TripId
+print("reading cs-hh...")
 hh<-read.csv(paste(dir_data, "HH NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
-hh$CS_StationId<-hh$ï..CS_StationId
+hh$CS_StationId<-hh$Ã¯..CS_StationId
 hh$CS_TripId<-as.character(hh$CS_TripId)
+print("reading cs-sl...")
 sl<-read.csv(paste(dir_data, "SL NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
-sl$CS_SpeciesListId<-sl$ï..CS_SpeciesListId
+sl$CS_SpeciesListId<-sl$Ã¯..CS_SpeciesListId
 sl$CS_StationId<-as.character(sl$CS_StationId)
+print("reading cs-hl...")
 hl<-read.csv(paste(dir_data, "HL NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
-hl$CS_LengthId<-hl$ï..CS_LengthId
+hl$CS_LengthId<-hl$Ã¯..CS_LengthId
 hl$CS_SpeciesListId<-as.character(hl$CS_SpeciesListId)
+print("reading cs-ca...")
 ca<-read.csv(paste(dir_data, "CA NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
-ca$CS_SMAWLId<-ca$ï..CS_SMAWLId
+ca$CS_SMAWLId<-ca$Ã¯..CS_SMAWLId
 
 
 #Subset cl on year, area and species
+print("Subset cl on year, area and species...")
 clSub<-subset(cl, Year>=yearStart & Year<=yearEnd & Species %in% speciesSelection & Area %like% paste(areaSelection, collapse='|'))
 
 #Subset ce on year and area
+print("Subset ce on year and area...")
 ceSub<-subset(ce, Year>=yearStart & Year<=yearEnd & Area %like% paste(areaSelection, collapse='|'))
 
 #Subset the tr record on year and area
+print("Subset cs-tr on year and area...")
 trhh<-left_join(tr,hh)
 trhhSub<-subset(trhh, Year>=yearStart & Year<=yearEnd & Area %like% paste(areaSelection, collapse='|'))
 trSub<-distinct(trhhSub[,c(names(tr))], CS_TripId)
 
 #Subset the hh record on year and area
+print("Subset cs-hh on year and area...")
 hhSub<-subset(hh, Year>=yearStart & Year<=yearEnd & Area %like% paste(areaSelection, collapse='|'))
 
 #Subset the sl record on year, area and species
+print("Subset cs-sl on year, area and species...")
 hhsl<-left_join(hh,sl)
 hhslSub<-subset(hhsl, Year>=yearStart & Year<=yearEnd & Species %in% speciesSelection & Area %like% paste(areaSelection, collapse='|'))
 slSub<-hhslSub[,c(names(sl))]
 
 #Subset the hl record on year, area and species
+print("Subset cs-hl on year, area and species...")
 hhslhl<-left_join(hhsl,hl)
 hhslhlSub<-subset(hhslhl, Year>=yearStart & Year<=yearEnd & Species %in% speciesSelection & Area %like% paste(areaSelection, collapse='|'))
 hlSub<-hhslhlSub[,c(names(hl))]
 
 #Subset ca on year, area and species
+print("Subset cs-ca on year, area and species...")
 caSub<-subset(ca, Year>=yearStart & Year<=yearEnd & Species %in% speciesSelection & Area %like% paste(areaSelection, collapse='|'))
 
 #Creating a universal country list for that stock -> similar colors in all graphs
+print(" a universal country list for that stock...")
 ctrs_list = sort(unique(c(trSub$FlagCountry,trSub$LandingCountry, clSub$FlagCountry,clSub$LandingCountry, ceSub$FlagCountry)))
 
 x<-(list(stock,cl,ce,tr,hh,sl,hl,ca,clSub,ceSub,trSub,hhSub,slSub,hlSub,caSub,ctrs_list))
