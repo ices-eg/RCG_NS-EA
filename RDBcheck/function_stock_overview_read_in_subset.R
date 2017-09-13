@@ -79,10 +79,13 @@ print("Subset cs-ca on year, area and species...")
 caSub<-subset(ca, Year>=yearStart & Year<=yearEnd & Species %in% speciesSelection & Area %like% paste(areaSelection, collapse='|'))
 
 #Creating a universal country list for that stock -> similar colors in all graphs
-print(" a universal country list for that stock...")
+print("Creating a universal country list for that stock...")
 ctrs_list = sort(unique(c(trSub$FlagCountry,trSub$LandingCountry, clSub$FlagCountry,clSub$LandingCountry, ceSub$FlagCountry)))
 
-x<-(list(stock,cl,ce,tr,hh,sl,hl,ca,clSub,ceSub,trSub,hhSub,slSub,hlSub,caSub,ctrs_list))
+# Setting factors for FlagCountry and LandingCountry
+print("Setting factors for FlagCountry and LandingCountry...") 
+  
+x<-list(stock = stock, cl = cl, ce = ce, tr = tr, hh = hh, sl = sl, hl = hl, ca = ca, clSub = clSub, ceSub = ceSub, trSub = trSub, hhSub = hhSub, slSub = slSub, hlSub = hlSub, caSub = caSub, ctrs_list = ctrs_list)
 
 return(x)
 
