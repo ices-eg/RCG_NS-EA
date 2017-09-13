@@ -1,3 +1,5 @@
+#This looks cool
+
 barplot_ca_biovar_by_country <- function(x, SamplingType, CatchCategory, BioVar, by.x, countries_list)
 	{
 	# prepares a barplot of bio_var per country
