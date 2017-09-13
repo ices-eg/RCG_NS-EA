@@ -11,22 +11,22 @@ stock="whg.27.47d"
 
 dir_data<-"H:/RCM/"
 
-cl<-read.csv(paste(dir_data, "CL 2009-2016 NSEA.csv", ""), header=T, stringsAsFactors=FALSE)
+cl<-read.csv(paste(dir_data, "CL 2009-2016 NSEA.csv", sep = ""), header=T, stringsAsFactors=FALSE)
 cl$LandingCountry<-cl$ï..LandingCountry
-ce<-read.csv(paste(dir_data, "CE 2009-2016 NSEA.csv", ""), header=T, sep="," , stringsAsFactors=FALSE)
+ce<-read.csv(paste(dir_data, "CE 2009-2016 NSEA.csv", sep =""), header=T, sep="," , stringsAsFactors=FALSE)
 ce$FlagCountry<-ce$ï..FlagCountry
-tr<-read.csv(paste(dir_data, "TR NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+tr<-read.csv(paste(dir_data, "TR NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
 tr$CS_TripId<-tr$ï..CS_TripId
-hh<-read.csv(paste(dir_data, "HH NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+hh<-read.csv(paste(dir_data, "HH NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
 hh$CS_StationId<-hh$ï..CS_StationId
 hh$CS_TripId<-as.character(hh$CS_TripId)
-sl<-read.csv(paste(dir_data, "SL NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+sl<-read.csv(paste(dir_data, "SL NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
 sl$CS_SpeciesListId<-sl$ï..CS_SpeciesListId
 sl$CS_StationId<-as.character(sl$CS_StationId)
-hl<-read.csv(paste(dir_data, "HL NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+hl<-read.csv(paste(dir_data, "HL NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
 hl$CS_LengthId<-hl$ï..CS_LengthId
 hl$CS_SpeciesListId<-as.character(hl$CS_SpeciesListId)
-ca<-read.csv(paste(dir_data, "CA NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+ca<-read.csv(paste(dir_data, "CA NSEA.csv", sep =""), header=T, sep=",", stringsAsFactors=FALSE)
 ca$CS_SMAWLId<-ca$ï..CS_SMAWLId
 
 #Subset cl on year, area and species
