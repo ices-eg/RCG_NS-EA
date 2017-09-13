@@ -84,8 +84,7 @@ ctrs_list = sort(unique(c(trSub$FlagCountry,trSub$LandingCountry, clSub$FlagCoun
 
 # Setting factors for FlagCountry and LandingCountry
 print("Setting factors for FlagCountry and LandingCountry...") 
-
-for (i in c("FlagCountry","LandingCountry"))
+for (i %in% c("FlagCountry","LandingCountry"))
     {
    if (i in colnames(clSub)) {clSub[,i]<-factor(clSub[,i], levels = ctrs_list)}
    if (i in colnames(ceSub)) {ceSub[,i]<-factor(ceSub[,i], levels = ctrs_list)}
