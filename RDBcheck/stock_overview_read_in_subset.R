@@ -9,23 +9,25 @@ areaSub<-c("27.4","27.7.d")
 stock="whg.27.47d"
 #StockSub<- for the future
 
-cl<-read.csv("H:/RCM/CL 2009-2016 NSEA.csv", header=T, stringsAsFactors=FALSE)
-cl$LandingCountry<-cl$ï..LandingCountry
-ce<-read.csv("H:/RCM/CE 2009-2016 NSEA.csv", header=T, sep="," , stringsAsFactors=FALSE)
-ce$FlagCountry<-ce$ï..FlagCountry
-tr<-read.csv("H:/RCM/TR NSEA.csv", header=T, sep=",", stringsAsFactors=FALSE)
-tr$CS_TripId<-tr$ï..CS_TripId
-hh<-read.csv("H:/RCM/HH NSEA.csv", header=T, sep=",", stringsAsFactors=FALSE)
-hh$CS_StationId<-hh$ï..CS_StationId
+dir_data<-"H:/RCM/"
+
+cl<-read.csv(paste(dir_data, "CL 2009-2016 NSEA.csv", ""), header=T, stringsAsFactors=FALSE)
+cl$LandingCountry<-cl$Ã¯..LandingCountry
+ce<-read.csv(paste(dir_data, "CE 2009-2016 NSEA.csv", ""), header=T, sep="," , stringsAsFactors=FALSE)
+ce$FlagCountry<-ce$Ã¯..FlagCountry
+tr<-read.csv(paste(dir_data, "TR NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+tr$CS_TripId<-tr$Ã¯..CS_TripId
+hh<-read.csv(paste(dir_data, "HH NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+hh$CS_StationId<-hh$Ã¯..CS_StationId
 hh$CS_TripId<-as.character(hh$CS_TripId)
-sl<-read.csv("H:/RCM/SL NSEA.csv", header=T, sep=",", stringsAsFactors=FALSE)
-sl$CS_SpeciesListId<-sl$ï..CS_SpeciesListId
+sl<-read.csv(paste(dir_data, "SL NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+sl$CS_SpeciesListId<-sl$Ã¯..CS_SpeciesListId
 sl$CS_StationId<-as.character(sl$CS_StationId)
-hl<-read.csv("H:/RCM/HL NSEA.csv", header=T, sep=",", stringsAsFactors=FALSE)
-hl$CS_LengthId<-hl$ï..CS_LengthId
+hl<-read.csv(paste(dir_data, "HL NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+hl$CS_LengthId<-hl$Ã¯..CS_LengthId
 hl$CS_SpeciesListId<-as.character(hl$CS_SpeciesListId)
-ca<-read.csv("H:/RCM/CA NSEA.csv", header=T, sep=",", stringsAsFactors=FALSE)
-ca$CS_SMAWLId<-ca$ï..CS_SMAWLId
+ca<-read.csv(paste(dir_data, "CA NSEA.csv", ""), header=T, sep=",", stringsAsFactors=FALSE)
+ca$CS_SMAWLId<-ca$Ã¯..CS_SMAWLId
 
 #Subset cl on year, area and species
 clSub<-subset(cl, Year>=yearStart & Year<=yearEnd & Species %in% speciesSub & Area %like% areaSub)
