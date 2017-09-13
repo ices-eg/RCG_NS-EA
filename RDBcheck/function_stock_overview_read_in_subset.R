@@ -84,6 +84,17 @@ ctrs_list = sort(unique(c(trSub$FlagCountry,trSub$LandingCountry, clSub$FlagCoun
 
 # Setting factors for FlagCountry and LandingCountry
 print("Setting factors for FlagCountry and LandingCountry...") 
+
+for (i in c("FlagCountry","LandingCountry"))
+    {
+   if (i in colnames(clSub)) {clSub[,i]<-factor(clSub[,i], levels = ctrs_list)}
+   if (i in colnames(ceSub)) {ceSub[,i]<-factor(ceSub[,i], levels = ctrs_list)}
+   if (i in colnames(trSub)) {trSub[,i]<-factor(trSub[,i], levels = ctrs_list)}
+   if (i in colnames(hhSub)) {hhSub[,i]<-factor(hhSub[,i], levels = ctrs_list)}
+   if (i in colnames(slSub)) {slSub[,i]<-factor(slSub[,i], levels = ctrs_list)}
+   if (i in colnames(hlSub)) {hlSub[,i]<-factor(hlSub[,i], levels = ctrs_list)}
+   if (i in colnames(caSub)) {caSub[,i]<-factor(caSub[,i], levels = ctrs_list)}    
+    }
   
 x<-list(stock = stock, cl = cl, ce = ce, tr = tr, hh = hh, sl = sl, hl = hl, ca = ca, clSub = clSub, ceSub = ceSub, trSub = trSub, hhSub = hhSub, slSub = slSub, hlSub = hlSub, caSub = caSub, ctrs_list = ctrs_list)
 
