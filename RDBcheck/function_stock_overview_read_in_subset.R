@@ -12,7 +12,7 @@ library(data.table)
 #dir_data<-"H:/RCM/"
 
 #data1<-read_in_subset_rdbData(dir_data="H:/RCM/", yearStart=2016, yearEnd=2016, speciesSelection=c("Merlangius merlangus"), 
-                       areaSelection=c("27.4","27.7.d"), stock="whg.27.47d")
+                       #areaSelection=c("27.4","27.7.d"), stock="whg.27.47d")
 
 read_in_subset_rdbData<-function(dir_data, yearStart, yearEnd, speciesSelection, areaSelection, stock)
 {
