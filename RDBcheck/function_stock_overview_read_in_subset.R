@@ -16,6 +16,7 @@ library(data.table)
 
 read_in_subset_rdbData<-function(dir_data, yearStart, yearEnd, speciesSelection, areaSelection, stock)
 {
+print("This function requeries the following packages "dplyr", "data.table"")
   
 stock<-stock
 print("reading cl...")
