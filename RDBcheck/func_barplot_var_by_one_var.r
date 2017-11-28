@@ -1,5 +1,6 @@
 barplot_var_by_one_var <- function(x,  Var, var1, tapply_type)
 	{
+	#
 	# prepares a barplot of Var per var1
 	# Nuno Prista @ RCM NS&EA 2017
 	
