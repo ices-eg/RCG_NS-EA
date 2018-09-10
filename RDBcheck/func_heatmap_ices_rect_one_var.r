@@ -34,7 +34,5 @@ draw.rect()
 draw.grid(grd,breaks)
 par(new=T);plot(map, xlim=xlim, ylim=ylim, bg=FALSE, col="gray")
 legend.grid("topright", breaks=breaks*legend.amp, type=2, inset=0.02, title=legend.title)
-
-
 }
 	
